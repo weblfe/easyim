@@ -1,0 +1,9 @@
+.idea/
+.DS_Store/
+.vscode/
+.docker/
+.env
+*.exe
+*.out
+*.log
+go.sum
